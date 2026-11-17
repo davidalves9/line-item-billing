@@ -1,8 +1,9 @@
 # Line item billing prototype
 
 A password-gated GitHub Pages share of the Jobber project prototype: Project
-Billing → Vision's Billing tab on Backyard reno, line item billing only. It
-opens on the empty payment schedule (FTUX), with Invoicing options, Milestone
+Billing → Vision's Billing tab on Backyard reno, for testing line item billing. It
+opens on the empty payment schedule (FTUX); a new schedule starts on Amount,
+so testers pick the structure themselves. With Invoicing options, Milestone
 billing and Jobber AI off, the Search line item picker and the Inline line card.
 
 The password changes every day at 07:00 UTC (midnight in Edmonton). A
