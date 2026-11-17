@@ -1,7 +1,9 @@
 # Line item billing prototype
 
 A password-gated GitHub Pages share of the Jobber project prototype: Project
-Billing → Vision's Billing tab on Backyard reno, for testing line item billing. It
+Billing → Vision on Backyard reno (its Overview, Work progress and Billing
+tabs), for testing line item billing. A Line items payment's invoice bills only
+its line items, at the share of each set on the payment schedule. It
 opens on the empty payment schedule (FTUX); a new schedule starts on Amount,
 so testers pick the structure themselves. With Invoicing options, Milestone
 billing and Jobber AI off and the Inline line card. A bar along the top switches
