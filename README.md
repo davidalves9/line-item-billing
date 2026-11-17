@@ -5,7 +5,9 @@ Billing → Vision's Billing tab on Backyard reno, for testing line item billing
 opens on the empty payment schedule (FTUX); a new schedule starts on Amount,
 so testers pick the structure themselves. With Invoicing options, Milestone
 billing and Jobber AI off and the Inline line card. A bar along the top switches
-the line item picker between Search (the default) and Two-pane.
+the line item picker between Search (the default) and Two-pane, and Jobber AI
+between Off (the default), Popover and Chat drawer; either AI version runs with
+Search.
 
 The password changes every day at 07:00 UTC (midnight in Edmonton). A
 scheduled workflow re-encrypts the snapshot under the new day's password and
